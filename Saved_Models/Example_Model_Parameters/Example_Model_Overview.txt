@@ -1,0 +1,14 @@
+Files
+['External_Data_Image_Sets/Extended_Example.npy']
+Validation_Fraction=
+0.2
+Set_Fraction=
+1
+epoch_number=
+50
+classifier=
+SGD
+Loss=
+0.7064
+Accuracy=
+0.5

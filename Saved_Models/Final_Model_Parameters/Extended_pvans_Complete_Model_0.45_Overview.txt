@@ -1,0 +1,14 @@
+Files
+['External_Data_Image_Sets/Extended_pvans_M000.npy', 'External_Data_Image_Sets/Extended_pvans_M0z02.npy', 'External_Data_Image_Sets/Extended_pvans_M0z04.npy', 'External_Data_Image_Sets/Extended_pvans_M0z06.npy', 'External_Data_Image_Sets/Extended_pvans_M001.npy', 'External_Data_Image_Sets/Extended_pvans_M1z02.npy', 'External_Data_Image_Sets/Extended_pvans_M1z04.npy', 'External_Data_Image_Sets/Extended_pvans_M1z06.npy', 'External_Data_Image_Sets/Extended_pvans_M005.npy', 'External_Data_Image_Sets/Extended_pvans_M5z02.npy', 'External_Data_Image_Sets/Extended_pvans_M5z04.npy', 'External_Data_Image_Sets/Extended_pvans_M5z06.npy', 'External_Data_Image_Sets/Extended_pvans_M010.npy', 'External_Data_Image_Sets/Extended_pvans_M10z02.npy', 'External_Data_Image_Sets/Extended_pvans_M10z06.npy']
+Validation_Fraction=
+0.2
+Set_Fraction=
+0.45
+epoch_number=
+50
+classifier=
+SGD
+Loss=
+0.6123
+Accuracy=
+0.709
